@@ -1,5 +1,10 @@
 # 🎬 Netflix Data Analysis
 
+<p align="center">
+  <img src="https://i.imgur.com/VWgDAWu.png" width="600" alt="Netflix Data Analysis Visualization">
+</p>
+
+
 ### 📌 Project Overview
 This project dives deep into Netflix’s data to explore trends in movies and TV shows.  
 With visual insights and key takeaways, it highlights the growth of content, genre popularity, and global reach.
@@ -31,14 +36,6 @@ With visual insights and key takeaways, it highlights the growth of content, gen
 - Jupyter Notebook
 - pandas, numpy
 - matplotlib, seaborn
-
----
-
-### 📷 Sample Visualizations
-
-<p align="center">
-  <img src="https://i.imgur.com/VWgDAWu.png" width="600" alt="Netflix Data Analysis Visualization">
-</p>
 
 ---
 
