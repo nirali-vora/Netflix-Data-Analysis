@@ -1,7 +1,7 @@
 # 🎬 Netflix Data Analysis
 
 <p align="center">
-  <img src="https://i.imgur.com/VWgDAWu.png" width="600" alt="Netflix Data Analysis Visualization">
+  <img src="netflix.jpg" width="600" alt="Netflix Data Analysis Visualization">
 </p>
 
 
