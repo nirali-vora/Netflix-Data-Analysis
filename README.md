@@ -12,8 +12,6 @@ This project delves into Netflix’s extensive library of content, providing ins
 - Genre-wise breakdown of movies and TV shows
 - Country-wise contributions to Netflix’s content library
 
----
-
 ## 📊 Dataset Information
 
 The dataset used in this project is the **Netflix Movies and TV Shows Dataset**, containing information about titles available on Netflix.
@@ -27,16 +25,12 @@ The dataset used in this project is the **Netflix Movies and TV Shows Dataset**,
 - `duration`: Duration of the content
 - `rating`: Content rating (e.g., TV-MA, PG, R)
 
----
-
 ## 📈 Key Insights
 
 - ✅ **Movies** dominate the Netflix platform.
 - 🌍 The **United States** produces the most content, followed by **India** and the **United Kingdom**.
 - 📅 A surge in new content occurred during **2019-2020**.
 - 🎥 Popular genres include **Dramas**, **International Movies**, and **Comedies**.
-
----
 
 ## 🛠️ Tools & Libraries Used
 
@@ -45,8 +39,6 @@ The dataset used in this project is the **Netflix Movies and TV Shows Dataset**,
 - **pandas** (Data manipulation)
 - **numpy** (Numerical operations)
 - **matplotlib** and **seaborn** (Data visualization)
-
----
 
 ## 🚀 How to Run This Project
 
