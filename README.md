@@ -46,5 +46,6 @@ The dataset used in this project is the **Netflix Movies and TV Shows Dataset**,
 - File: `Netflix-Data-Analysis.ipynb`
 
 2️⃣ **Install the required libraries**:
+
 ```bash
 pip install pandas numpy matplotlib seaborn
