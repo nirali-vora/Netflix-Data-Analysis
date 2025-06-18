@@ -52,5 +52,5 @@ The dataset used is the **Netflix Movies and TV Shows Dataset**, which includes 
 - File: `Netflix-Data-Analysis.ipynb`
 
 2️⃣ **Install the required libraries**:
-```bash
+``bash
 pip install pandas numpy matplotlib seaborn
