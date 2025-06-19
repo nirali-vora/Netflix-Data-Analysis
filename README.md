@@ -4,7 +4,7 @@
   <img src="netflix.png" width="400" alt="Netflix Data Analysis Visualization">
 </p>
 
-# 🎬 Netflix Data Analysis Project
+# Project
 
 Explore the trends and insights behind Netflix’s vast content library using data visualization and analytics. This project reveals how Netflix’s offerings have evolved over time, what genres dominate, and which countries contribute the most to its global catalog.
 
