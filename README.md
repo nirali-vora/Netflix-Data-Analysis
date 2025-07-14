@@ -53,4 +53,4 @@ The dataset used is the **Netflix Movies and TV Shows Dataset**, which includes 
 
 2️⃣ **Install the required libraries**:
 ``bash
-pip install pandas numpy matplotlib seaborn 
+pip install pandas numpy matplotlib seaborn
